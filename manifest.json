@@ -1,0 +1,44 @@
+{
+    "lang": "es-mx",
+    "name":"ECOS",
+    "short_name": "ECOS",
+    "description":"Pagina PWA sobre el videojuego ECOS",
+    "id": "/",
+    "start_url": "https://ecos-pwa.000webhostapp.com/",
+    "background_color": "#34495E",
+    "theme_color": "#34495E",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+          "src": "/logo01.png",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "/logo02.png",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "/logo03.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "/logo04.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "/logo05.png",
+          "sizes": "168x168",
+          "type": "image/png"
+        },
+        {
+          "src": "/logo06.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+}
